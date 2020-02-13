@@ -1,0 +1,205 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+  /*  font-family: 'Sacramento', cursive; */
+    font-size: 5.625rem;
+    font-family: 'Indie Flower', cursive;
+    line-height: 2;
+    
+}
+
+h2 {
+    color: #66BFBF;
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+footer-link {
+    color: #11999E
+}
+
+.welcome-text {
+    padding-bottom: 40px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.prog {
+    font-weight: normal;
+    line-height: 2rem;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.my-dog {
+    border-radius: 50%;
+    width: 20%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.tea {
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Books {
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.hr-dots {
+border-style: none;
+border-top-style: dotted;
+border-color:grey;
+border-width: 7px;
+width: 5%;
+margin: 10px auto 10px auto;
+padding-bottom: 40px;
+}
+
+.skills {
+    padding-top: 40px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+
+
+.pro {
+    text-decoration: underline;
+
+}
+
+.contact-me {
+    margin: 30px;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 60px 0 20px;
+}
+
+.footer-link {
+    color: rgb(21, 129, 133);
+    margin: 35px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+    color: #EEf6F6
+}
+
+.copyright {
+    color: #EAF6F6;
+    padding: 30px 0;
+
+}
+
+.icon-attribution1 {
+    position: relative;
+    top: 14.375rem;
+    right: 15.625rem;
+    font-size: 8px;
+}
+
+.icon-attribution2 {
+    position: relative;
+    top: 230px;
+    font-size: 8px;
+    left: 45.375rem;
+    padding-top: 10px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto; 
+    text-align: left;
+}
+
+.skills-text-tea {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.skills-text-books {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+p {
+    line-height: 2;
+}
+
+
+.btn {
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color: #11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color :#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:16px 24px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+        
